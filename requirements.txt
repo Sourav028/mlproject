@@ -7,4 +7,5 @@ catboost
 xgboost
 ipykernel
 jupyter
+dill
 #-e .   ##it will tigger setup.py
