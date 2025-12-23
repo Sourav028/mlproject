@@ -1,4 +1,10 @@
 pandas
 numpy
 seaborn
--e .   ##it will tigger setup.py
+scikit-learn
+matplotlib
+catboost
+xgboost
+ipykernel
+jupyter
+#-e .   ##it will tigger setup.py
