@@ -8,4 +8,5 @@ xgboost
 ipykernel
 jupyter
 dill
+flask
 #-e .   ##it will tigger setup.py
